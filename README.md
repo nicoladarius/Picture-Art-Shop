@@ -1,5 +1,5 @@
 # Picture-Art-Shop
-10/13/2024
+10/13/2024 - By Nicola Darius - https://github.com/nicoladarius/Picture-Art-Shop
 
 My painting shop website is a Romanian-language e-commerce platform designed to showcase and sell artwork in a visually appealing and user-friendly manner. The website is built with HTML, CSS, Bootstrap, and JavaScript, ensuring a modern, responsive, and interactive experience for visitors.
 
