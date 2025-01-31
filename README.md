@@ -1,5 +1,6 @@
 # Picture-Art-Shop
 10/13/2024
+
 My painting shop website is a Romanian-language e-commerce platform designed to showcase and sell artwork in a visually appealing and user-friendly manner. The website is built with HTML, CSS, Bootstrap, and JavaScript, ensuring a modern, responsive, and interactive experience for visitors.
 
 The homepage features a hero section with a welcoming message and a call-to-action button, encouraging users to explore the collection. The gallery section is structured using Bootstrap cards, displaying paintings with images, titles, prices, and a button for more details. The navigation bar and footer include social media links, enhancing user engagement.
